@@ -1,0 +1,11 @@
+{
+  "name": "microhabit-tracker",
+  "version": "1.0.0",
+  "description": "MVP para seguimiento de micro-hábitos orientado a estudiantes universitarios",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  }
+}
